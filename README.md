@@ -1,4 +1,14 @@
 # Shinydashboard Skeleton
+```
+BIG NOTE:
+If your parachute just brought you here
+and you can't understand a word in portuguese,
+feel free to write us in english.
+
+Did you looked our demo?
+```
+
+
 **Shinydash Skeleton** nasceu devido a um trabalho acadêmico proposto pelo professor [Rodrigo Sant'Ana](https://www.linkedin.com/in/rodrigo-sant-ana-a6a2a135) ao seu então aluno [Eric Ruiz](https://www.linkedin.com/in/e-ruiz) (esse que vos escreve) na disciplina de visualização de dados.
 
 Essa é uma estrutura básica de uma aplicação [R](https://www.r-project.org/) + [Shinydashboard](https://rstudio.github.io/shinydashboard/) para ser utilizada como pontapé inicial para diferentes projetos e ideias.
@@ -27,7 +37,7 @@ Rscript run.R
 
 
 ## Participe!
-Caso queira propor uma melhoria, abra uma issue. Se preferir colaborar com correções, basta enviar uma branch e solicitar um merge request. E se quiser amarrar seu MR com uma issue, melhor ainda! \o/
+Caso queira propor uma melhoria, abra uma issue. Se preferir colaborar diretamente com código, basta enviar uma branch e solicitar um merge request. E se quiser amarrar seu MR com uma issue, melhor ainda! \o/
 
 
 ## Licenças
