@@ -1,5 +1,5 @@
 # Shinydashboard Skeleton
-**Shinydash Skeleton** nasceu devido a um trabalho acadêmico proposto pelo professor Rodrigo Sant'Ana ao seu então aluno Eric Ruiz (esse que vos escreve) na disciplina de visualização de dados.
+**Shinydash Skeleton** nasceu devido a um trabalho acadêmico proposto pelo professor [Rodrigo Sant'Ana](https://www.linkedin.com/in/rodrigo-sant-ana-a6a2a135) ao seu então aluno [Eric Ruiz](https://www.linkedin.com/in/e-ruiz) (esse que vos escreve) na disciplina de visualização de dados.
 
 Essa é uma estrutura básica de uma aplicação R + Shinydashboard para ser utilizada como pontapé inicial para diferentes projetos e ideias.
 
